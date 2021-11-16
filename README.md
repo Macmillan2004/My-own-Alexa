@@ -1,6 +1,7 @@
 ## Build an Artificial Assistant
 
-### Full tutorial (video)
+### Full tutorial (video)(https://img.youtube.com/vi/e-haNpKQOt0/0.jpg)](https://www.youtube.com/watch?v=e-haNpKQOt0 "Build your own Alexa")
+
 To watch the tutorial, click on the image below
 
 [![Watch the video-- Build your own Alexa]

@@ -4,7 +4,7 @@
 ### Full tutorial (video)
 To watch the tutorial, click on the image below
 
-[![Watch the video-- Build your own Alexa](https://img.youtube.com/vi/e-haNpKQOt0/0.jpg)](https://www.youtube.com/watch?v=e-haNpKQOt0 "Build your own Alexa")
+[![Watch the video-- Build your own Alexa](https://drive.google.com/file/d/1uA0_LtIoMEEL3Hu6_SVgZzf9UMpLb3Ud/view?usp=sharing)](https://www.youtube.com/watch?v=e-haNpKQOt0 "Build your own Alexa")
 
 
 ## Installation
